@@ -1,6 +1,4 @@
-# Project-Euller
-Project Euler problems solved
-
+# Project-Euller :grin:
 
 
 In this repository, I will post my resolutions for the problems that we can find on the website https://projecteuler.net/.
